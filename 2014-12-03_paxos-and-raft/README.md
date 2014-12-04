@@ -4,6 +4,10 @@
 * Paxos Made Simple: http://pdos.csail.mit.edu/6.824/papers/paxos-simple.pdf
 
 ## Talks
+* Sorting algorithms based on 0-1 lemma (Stefan Schwetschke)
+* Software systems that use Paxos or Raft (Daniel Mitterdorfer)
+* An overview how etcd uses the raft protocol (Christine Koppelt)
+* RANSAC (random sample consensus) algorithm with a few examples (Kai Wolf)
 
 ## Additional links
 * http://thesecretlivesofdata.com/raft/
