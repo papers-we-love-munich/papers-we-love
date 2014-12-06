@@ -5,7 +5,7 @@
 
 ## Talks
 * Sorting algorithms based on 0-1 lemma (Stefan Schwetschke)
-* Software systems that use Paxos or Raft (Daniel Mitterdorfer)
+* [Software systems that use Paxos or Raft](Paxos and Raft in Practice.pdf) (Daniel Mitterdorfer)
 * An overview how etcd uses the raft protocol (Christine Koppelt)
 * RANSAC (random sample consensus) algorithm with a few examples (Kai Wolf)
 
