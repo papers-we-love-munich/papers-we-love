@@ -1,9 +1,6 @@
 # Topic: Probabilistic Data Structures
-## Papers
-
 ## Talks
-* Bloom Filters - Stefan Seelmann
+* [Bloom Filters](https://github.com/seelmann/ppp/tree/master/2015-BloomFilter) - Stefan Seelmann
 * Count-Min Sketch - Alex Petrov
-* Hidden Markov Models - Juan Miguel Cejula 
+* [Hidden Markov Models](2015-01-27_Papers_We_Love__jmcejuela_slides.pdf) - Juan Miguel Cejula 
 
-## Projects
